@@ -2,3 +2,4 @@
 file2 contents
 
 MODIFY file2 on mastere file
+add this line in feature2
